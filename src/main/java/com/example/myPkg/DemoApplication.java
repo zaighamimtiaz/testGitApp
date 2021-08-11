@@ -12,6 +12,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		
 		System.out.println("Welcome to boot buddy");
+		System.out.println("User Management System");
 	}
 
 }
